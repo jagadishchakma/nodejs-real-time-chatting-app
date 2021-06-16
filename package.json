@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-real-time-chatting-app",
+  "version": "1.0.0",
+  "description": "using nodejs make a real time chatting application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadishchakma/nodejs-real-time-chatting-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "jagadish",
+    "chakma",
+    "node",
+    "project",
+    "node",
+    "real",
+    "time",
+    "chatting",
+    "app",
+    "mongodb",
+    "socket",
+    "jwt"
+  ],
+  "author": "Jagadish Chakma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadishchakma/nodejs-real-time-chatting-app/issues"
+  },
+  "homepage": "https://github.com/jagadishchakma/nodejs-real-time-chatting-app#readme"
+}
