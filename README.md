@@ -9,3 +9,8 @@
 - dotenv
 - multer
 - ejs
+- cookie-parser
+- express-validator
+- jsonwebtoken
+- bcrypt
+- http-errors
