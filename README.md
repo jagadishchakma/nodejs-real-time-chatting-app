@@ -5,3 +5,7 @@
 ## Module Dependenies
 
 - express.js
+- mongoose
+- dotenv
+- multer
+- ejs
